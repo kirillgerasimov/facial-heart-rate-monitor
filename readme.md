@@ -35,8 +35,8 @@ Main app is not published in the most countries yet. It’s far from ideal , but
 
 It can detect heart rate by face ± 3 bpm (~ 50% confidence), ± 6 bpm (~ 65% confidence) in the following conditions:
 
-* there’s very little movement in the frame,
-* the face is well lit.
+* there’s very little movement in the frame
+* the face is well lit
 
 It can measure heart rate in less stable conditions with lesser confidence.
 

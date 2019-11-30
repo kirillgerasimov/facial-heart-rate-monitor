@@ -62,6 +62,8 @@ _You can watch video comparison with hardware Polar strap. Take a look at `ml-ki
 
 Pay attention to the bottom part. There is a probability of any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow. 
 
+You can see some movement in a frame and a marker trying to disrupt measurement. Filters managed to hold.
+
 
 Not all Main app processors were used in this app.
 

@@ -64,8 +64,8 @@ You can see some movement in a frame and a marker trying to disrupt measurement.
 
 Not all Main app processors were used in this app.
 
-### How google can help.
-#### TLDR
+### How google can help
+#### Summary
 
 - Help with MLKit optimizations
 

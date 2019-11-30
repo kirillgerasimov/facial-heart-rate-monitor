@@ -28,8 +28,11 @@ I’ve just released an application that measures HR using facial camera.
 
 ### What do I have
 
-At the moment I have an application that allow to detect heart rate filming face (OpenCV) and proof of concept ML Kit application.
-Main app is not published in the most countries yet. It’s far from ideal , but it has *4,878* overall rating at the moment. *You can watch video that compares the App with hardware Polar strap. Take a look at `actual-app-demo.mp4`*
+I have an 
+* application that allow to detect heart rate by face image (OpenCV) 
+* proof of concept ML Kit application
+
+Main app is not published in the most countries yet. It’s far from ideal , but it has *4,878* overall rating at the moment. 
 
 #### Main app
 
@@ -39,6 +42,7 @@ It can detect heart rate by face ± 3 bpm (~ 50% confidence), ± 6 bpm (~ 65% co
 * the face is well lit
 
 It can measure heart rate in less stable conditions with lesser confidence.
+*You can watch video that compares the App measurement with hardware Polar strap. Take a look at `actual-app-demo.mp4`*
 
 ##### Features
 

@@ -22,7 +22,7 @@ I’ve just released an application that measures HR using facial camera.
 
  The frame goes through 8 processors before we can obtain person’s heart rate. These processors can mitigate external factors to some extent, but the current implementation based on OpenCV is not accurate enough to allow a person to move around in a frame.
 
-**I want to use ML Kit to allow a person to move in the frame more freely using face contour detection to provide accurate measurements.** I also plan to add new processors that can isolate external factors better using TensorFlow.
+**I want to use ML Kit to allow a person to move in a frame utilizing face contour detection to provide accurate measurements.** I also plan to add new processors that can isolate external factors better using TensorFlow.
 
 ## 2.Plan 
 

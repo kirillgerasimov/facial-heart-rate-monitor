@@ -28,7 +28,7 @@ I’ve just released an application that measures HR using facial camera.
 
 ### What do I have
 
-I have an 
+I have the following: 
 * application that allow to detect heart rate by face image (OpenCV) 
 * proof of concept ML Kit application
 
@@ -133,7 +133,7 @@ _April 1 - May 1, 2020_
 
 ## 3. Tell us about you
 
-Hello. I’m a developer.
+I’m a developer.
 
 I’ve been working for 8 years. I like to solve beautiful algorithmic problems. Completed Foobar challenge. Like to know how things are working internally.
 

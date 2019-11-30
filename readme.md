@@ -111,11 +111,11 @@ _January 2 - January 14, 2020_
 
 - app publication, gathering user feedback, fixing bugs and logic errors
 
-_January 15, 2020 - January 30, 2020_
+_January 15 - January 30, 2020_
 
 - creating testing framework to compare different plugin sets automatically. It’ll allow to determine which combination to use and if the newest plugin improving confidence or not. Testing different combinations
 
-_March 1, - March 21 2020_
+_March 1 - March 21 2020_
 
 - collecting training data and testing models using TensorFlow to improve confidence further
 
@@ -123,7 +123,7 @@ _March 22 - March 30, 2020_
 
 - publish to users, fix logic errors and bugs
 
-_April 1, - May 1, 2020_
+_April 1 - May 1, 2020_
 
 - finalising model training, spare time
 

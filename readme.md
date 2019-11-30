@@ -1,5 +1,5 @@
 
-# Facial Heart Rate Detection 
+# Facial Heart Rate Monitor 
 
 ## 1. Idea 
 

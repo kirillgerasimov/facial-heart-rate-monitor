@@ -5,9 +5,9 @@
 
 ML models are learning from us how to do things for us. For example, page relevance evaluation in search engines.
 
-But what really is fascinating is when it looks farther than us, does things that we can’t.
+But what really is fascinating is when it looks further than us, does things that we can’t.
 
-There are many cameras around us. What if we can **measure the heart rate in real time just by observing a person**. We can prevent a dangerous condition, give fitness advice, play music with beat that matches heart beat or it can simply act as a new mean of health monitoring.
+There are many cameras around us. What if we can **measure the heart rate in real time just by observing a person**? We can prevent a dangerous condition, give fitness advice, play music with beat that matches heart beat or it can simply act as a new mean of health monitoring.
 
 The capillaries on the face are filled with blood every beat of heart. Camera can detect the pulse by a very slight change in the color of the skin. The effective amplitude is often about 0.2 of the minimum color gradation recorded by the camera (i.e Red goes from 178.3 to 178.5). Therefore, any external interference with a slight tilt of the head or a trembling hand with the phone, a slight lighting change - ruin the whole picture.
 
@@ -20,7 +20,7 @@ I’ve just released an application that measures HR using facial camera.
 </p>
 <p />
 
- The frame goes through 8 processors before we can obtain person’s heart rate. These processors can mitigate external factors to some extent, but the current implementation based on OpenCV is not accurate enough to allow a person to move around in a frame.
+ The frame goes through 8 processors (filters) before we can obtain person’s heart rate. These processors can mitigate external factors to some extent, but the current implementation based on OpenCV is not accurate enough to allow a person to move around in a frame.
 
 **I want to use ML Kit to allow a person to move in a frame utilizing face contour detection to provide accurate measurements.** I also plan to add new processors that can isolate external factors better using TensorFlow.
 

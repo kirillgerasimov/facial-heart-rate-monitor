@@ -9,7 +9,7 @@ But what really is fascinating is when it looks further than us, does things tha
 
 There are many cameras around us. What if we can **measure the heart rate in real time just by observing a person**? We can prevent a dangerous condition, give fitness advice, play music with beat that matches heart beat or it can simply act as a new mean of health monitoring.
 
-The capillaries on the face are filled with blood every beat of heart. Camera can detect the pulse by a very slight change in the color of the skin. The effective amplitude is often about 0.2 of the minimum color gradation recorded by the camera (i.e Red goes from 178.3 to 178.5). Therefore, any external interference with a slight tilt of the head or a trembling hand with the phone, a slight lighting change - ruin the whole picture.
+The capillaries on the face are filled with blood every beat of heart. Camera can detect the pulse by a very slight change in the color of the skin. The effective amplitude is often about 0.2 of the minimum color gradation recorded by the camera (i.e Red goes from 178.3 to 178.5). Therefore, any external interference with a slight tilt of the head or a trembling hand with the phone, a slight lighting change - ruins the whole picture.
 
 I’ve just released an application that measures HR using facial camera.
  
@@ -61,7 +61,7 @@ It can detect heart rate in a static frame as well as the main application does.
 
 _You can watch video that compares measurment of this App and hardware Polar strap. Take a look at `ml-kit-proof-of-concept-demo.mp4`_
 
-Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstackles.
+Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstacles.
 
 You can see some movement in a frame and a marker trying to disrupt measurement. Filters managed to hold.
 
@@ -109,7 +109,7 @@ _December 8 - December 21, 2019_
 
 _December 22, 2019 - January 1, 2020_
 
-- closed testing and tuning.
+- closed testing and tuning
 
 _January 2 - January 14, 2020_
 

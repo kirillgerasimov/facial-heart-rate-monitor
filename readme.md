@@ -59,7 +59,7 @@ It can detect heart rate in a static frame as well as the main application does.
 </p>
 <p />
 
-_You can watch video that compares measurment of this App and hardware Polar strap. Take a look at `ml-kit-proof-of-concept-demo.mp4`_
+_You can watch video that compares measurment of this App and hardware Polar strap. Take a look at [ml-kit-proof-of-concept-demo.mp4](ml-kit-proof-of-concept-demo.mp4)_
 
 Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstacles.
 

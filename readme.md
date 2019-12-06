@@ -42,7 +42,7 @@ It can detect heart rate by face ± 3 bpm (~ 50% confidence), ± 6 bpm (~ 65% co
 * the face is well lit
 
 It can measure heart rate in less stable conditions with lesser confidence.
-*You can watch video that compares the App measurement with hardware Polar strap. Take a look at [actual-app-demo.mp4](../blob/master/actual-app-demo.mp4)*
+*You can watch video that compares the App measurement with hardware Polar strap. Take a look at [actual-app-demo.mp4](blob/master/actual-app-demo.mp4)*
 
 ##### Features
 

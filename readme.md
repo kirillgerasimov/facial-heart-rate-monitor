@@ -16,7 +16,7 @@ I’ve just released an application that measures HR using facial camera.
  <p align="center">
 
 
-<img src="interface.png"/>
+<img src="images/interface.png"/>
 </p>
 <p />
 
@@ -52,15 +52,23 @@ It can measure heart rate in less stable conditions with lesser confidence.
 #### Proof of concept ML Kit app
 It can detect heart rate in a static frame as well as the main application does. Shows much better confidence when face is moving than prior application.
 
-##### Update
-I've created new frame processor, that allows to boost confidence to more than 90% +-3 bpm in still case, and 50% +-6 bpm in tricky cases.
+<p align="center">
+
+
+<img src="images/proof-of-concept.png"/>
+</p>
+<p />
+
+##### Update on Dec 7
+I've created new frame processor, that allows to **boost confidence to more than 90%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases.
 
 <p align="center">
 
 
-<img src="proof-of-concept.png"/>
+<img src="images/new-approach.png"/>
 </p>
 <p />
+
 
 _You can watch video that compares measurment of this App and hardware Polar strap. Take a look at [ml-kit-proof-of-concept-demo.mp4](ml-kit-proof-of-concept-demo.mp4)_
 

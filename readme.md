@@ -70,6 +70,19 @@ I've created new frame processor, that allows to **boost confidence to more than
 <p />
 
 
+Here is an example of tough case I took durring a walk. It includes frame movement and small coverage of extraction area. 
+
+New processor shows right bpm: 124, while pipeline without new processor didn't mananage to pick the right value up and shows 92 bpm with 9% confidence.
+
+<p align="center">
+
+
+<img src="images/new-approach-tough.png"/>
+</p>
+<p />
+
+
+
 _You can watch video that compares measurment of this App and hardware Polar strap. Take a look at [ml-kit-proof-of-concept-demo.mp4](ml-kit-proof-of-concept-demo.mp4)_
 
 Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstacles.

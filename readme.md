@@ -60,7 +60,7 @@ It can detect heart rate in a static frame as well as the main application does.
 <p />
 
 ##### Update on Dec 7
-I've created new frame processor, that allows to **boost confidence to more than 90%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases.
+I've created new frame processor, that **boosts confidence to 90+%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases. Have a look at the spectrum before and after:
 
 <p align="center">
 

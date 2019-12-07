@@ -71,7 +71,7 @@ You can see some movement in a frame and a marker trying to disrupt measurement.
 Not all Main app processors were used in this app.
 
 
-##### Update on Dec 7
+##### Update from December, 7
 I've created new frame processor, that **boosts confidence to 90+%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases. Have a look at the spectrum before and after:
 
 <p align="center">

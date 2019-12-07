@@ -52,6 +52,9 @@ It can measure heart rate in less stable conditions with lesser confidence.
 #### Proof of concept ML Kit app
 It can detect heart rate in a static frame as well as the main application does. Shows much better confidence when face is moving than prior application.
 
+##### Update
+I've created new frame processor, that allows to boost confidence to more than 90% +-3 bpm in still case, and 50% +-6 bpm in tricky cases.
+
 <p align="center">
 
 

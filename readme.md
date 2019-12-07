@@ -32,7 +32,7 @@ I have the following:
 * application that allow to detect heart rate by face image (OpenCV) 
 * proof of concept ML Kit application
 
-Main app is not published in the most countries yet. It’s far from ideal , but it has *4,878* overall rating at the moment. 
+Main app is published in very limited set of countries yet. It’s far from ideal , but it has *4,878* overall rating at the moment. 
 
 #### Main app
 
@@ -161,7 +161,7 @@ _April 1 - May 1, 2020_
 
 I’m a developer.
 
-I’ve been working for 8 years. I like to solve beautiful algorithmic problems. Completed Foobar challenge. Like to know how things are working internally.
+I’ve been working for 8 years. I like to solve beautiful algorithmic problems. Completed Foobar challenge. Like to know how things are working internally. Have a knowledge on how to train Neural Networks including low level ones: matrix opertaions and GD implementation.
 
 I used different languages, but the main one is Java.
 

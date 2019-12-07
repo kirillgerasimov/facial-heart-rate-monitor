@@ -59,6 +59,18 @@ It can detect heart rate in a static frame as well as the main application does.
 </p>
 <p />
 
+
+
+_You can watch video that compares measurment of this App and hardware Polar strap. Take a look at [ml-kit-proof-of-concept-demo.mp4](ml-kit-proof-of-concept-demo.mp4)_
+
+Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstacles.
+
+You can see some movement in a frame and a marker trying to disrupt measurement. Filters managed to hold.
+
+
+Not all Main app processors were used in this app.
+
+
 ##### Update on Dec 7
 I've created new frame processor, that **boosts confidence to 90+%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases. Have a look at the spectrum before and after:
 
@@ -81,16 +93,6 @@ New processor shows right bpm: 124, while pipeline without new processor didn't 
 </p>
 <p />
 
-
-
-_You can watch video that compares measurment of this App and hardware Polar strap. Take a look at [ml-kit-proof-of-concept-demo.mp4](ml-kit-proof-of-concept-demo.mp4)_
-
-Pay attention to the bottom part. There is histogram representing HR probability to be any given frequency from 0 to 3 hz (180 bpm). Confidence score assigned to current measurement painted in yellow.  You can see how confidence and histogram reacts when it come across different obstacles.
-
-You can see some movement in a frame and a marker trying to disrupt measurement. Filters managed to hold.
-
-
-Not all Main app processors were used in this app.
 
 ### How google can help
 #### Summary

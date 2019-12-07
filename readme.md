@@ -72,7 +72,7 @@ Not all Main app processors were used in this app.
 
 
 ##### Update from December, 7
-I've created new frame processor, that **boosts confidence to 90+%** +-3 bpm in still case, and 50% +-6 bpm in tricky cases. Have a look at the spectrum before and after:
+I've created new frame processor that **boosts confidence to 90+%** ± 3 bpm in still case, and 50% ± 6 bpm in tricky cases. Have a look at the spectrum before and after:
 
 <p align="center">
 
@@ -82,9 +82,9 @@ I've created new frame processor, that **boosts confidence to 90+%** +-3 bpm in 
 <p />
 
 
-Here is an example of tough case I took durring a walk. It includes frame movement and small coverage of extraction area. 
+Here is an example of tough case I took during a walk. It includes frame movement and small overlapping of extraction area. 
 
-New processor shows right bpm: 124, while pipeline without new processor didn't mananage to pick the right value up and shows 92 bpm with 9% confidence.
+New processor shows right bpm: 124, while pipeline without new processor didn't manage to pick the right value up and shows 92 bpm with 9% confidence.
 
 <p align="center">
 
